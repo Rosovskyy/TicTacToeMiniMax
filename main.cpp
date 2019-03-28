@@ -2,10 +2,6 @@
 #include <vector>
 
 
-struct Sign {
-    char player = 'X';
-    char bot = '0';
-};
 char player = 'X';
 char bot = 'O';
 
